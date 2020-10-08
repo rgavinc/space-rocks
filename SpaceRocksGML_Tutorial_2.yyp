@@ -2,11 +2,13 @@
   "resources": [
     {"id":{"name":"spr_asteroid_med","path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},"order":4,},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":1,},
+    {"id":{"name":"obj_ship","path":"objects/obj_ship/obj_ship.yy",},"order":1,},
     {"id":{"name":"spr_asteroid_small","path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},"order":2,},
+    {"id":{"name":"obj_asteroid","path":"objects/obj_asteroid/obj_asteroid.yy",},"order":2,},
     {"id":{"name":"obj_cat","path":"objects/obj_cat/obj_cat.yy",},"order":0,},
     {"id":{"name":"spr_cat","path":"sprites/spr_cat/spr_cat.yy",},"order":0,},
     {"id":{"name":"spr_asteroid_large","path":"sprites/spr_asteroid_large/spr_asteroid_large.yy",},"order":3,},
-    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":0,},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -20,7 +22,7 @@
     "children": [],
   },
   "RoomOrder": [
-    {"name":"room0","path":"rooms/room0/room0.yy",},
+    {"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Rooms.yy","order":11,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
